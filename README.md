@@ -1,12 +1,12 @@
 [![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)]
 
 <h1 align="center">Hi 👋, I'm NAIK TARUNSAI KISHOR</h1>
-<h3 align="center">A passionate Java developer and Web developer from India.🚀 Welcome to my quirky corner of the coding universe! 🌌 I'm just a curious human with a passion for turning caffeine into code and pixels into magic.🔥</h3>
+<h3 align="center">A passionate Java developer and MERN Stack Web developer from India.🚀 Welcome to my quirky corner of the coding universe! 🌌 I'm just a curious human with a passion for turning caffeine into code and pixels into magic.🔥</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naiktarunsaikishor&label=Profile%20views&color=0e75b6&style=flat" alt="naiktarunsaikishor" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naiktarunsaikishor" alt="naiktarunsaikishor" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naiktarunsaikishor" alt="naiktarunsaikishor" /></a> </p>
 
 - 🔭 I’m currently working on **latest project**
 
